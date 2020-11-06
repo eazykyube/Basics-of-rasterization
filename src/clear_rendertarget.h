@@ -40,8 +40,8 @@ namespace cg
 	protected:
 		void SetPixel(unsigned short x, unsigned short y, color color);
 
-		unsigned short height;
-		unsigned short width;
+		unsigned height;
+		unsigned width;
 
 		std::vector<color> frame_buffer;
 	};
