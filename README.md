@@ -1,3 +1,7 @@
+# CGGD_lab1
+
+Implementation of basics of rasterization. Was done within the Computer Graphics in Game Development course of Innopolis University.
+
 # Basics of rasterization
 
 This repo contains a template for Basics of rasterization labs
